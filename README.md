@@ -10,20 +10,19 @@
 ## 📖 简介
 
 这是我在深度学习、计算机视觉和强化学习方向的学习笔记仓库。所有笔记使用 Obsidian 的 **Wiki 链接（`[[note]]`）** 互相关联，形成知识网络。同时在 GitHub 上托管作为云备份 + 公开分享。
-
 ---
 
 ## 🖼️ 笔记预览
 
 ### ✍️ 纯手绘 Transformer 架构
 
-|                                            完整架构                                            |                                     Encoder 细节                                     |                                     Decoder 细节                                     |
-| :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+| 完整架构 | Encoder 细节 | Decoder 细节 |
+|:---:|:---:|:---:|
 | ![Transformer](Transformer/Hand-Drawn-Transformer/Transformer/Transformer-Transformer.png) | ![Encoder](Transformer/Hand-Drawn-Transformer/Transformer/Transformer-Encoder.png) | ![Decoder](Transformer/Hand-Drawn-Transformer/Transformer/Transformer-Decoder.png) |
 
-> 以上三张为纯手绘 Transformer 架构图，涵盖 Multi-Head Attention、Add & Norm、Feed Forward、Cross-Attention 等全部组件。
+> 纯手绘 Transformer 架构图，涵盖 Multi-Head Attention、Add & Norm、Feed Forward、Cross-Attention 等全部组件。
 
-### 📐 Self-Attention 矩阵计算（手绘复现）
+### 📐 Self-Attention 矩阵计算
 
 ![Self-Attention](Transformer/assets/%E8%BE%85%E5%8A%A9Transformer%E7%9A%84%E5%A4%8D%E7%8E%B0%E6%89%8B%E7%BB%98%E6%9E%B6%E6%9E%84/Pasted%20Image%2020260712084004_715.png)
 
