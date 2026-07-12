@@ -1,0 +1,7 @@
+- [ ] 🛫 2026-05-11 ：
+- [ ] 🛫 2026-05-11 : EnglishLesson of XiaoYan
+- [x] 🛫 2026-05-11 : Vscode SSH Link and train Deit-T64 ✅ 2026-05-17
+- [ ] 📅 2026-05-17 : Visualize Attention
+- [ ] 📅 2026-05-17 : Computer Variance And Visualize
+- [ ] 📅 2026-05-17 : Use Objective Detection to deal with images and train to learn compare outcomes with orginal model
+- [ ] 📅 2026-05-17 : Read DynamicViT、Evo-ViT、PS-EViT、ToMe、A-ViT

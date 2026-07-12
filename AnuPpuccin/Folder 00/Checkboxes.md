@@ -1,0 +1,39 @@
+- [x] unchecked ✅ 2026-05-10
+- [x] checked ✅ 2026-05-10
+- [x] Rescheduled ✅ 2026-05-10
+- [x] scheduled ✅ 2026-05-10
+- [!] important
+- [-] cancelled
+- [x] in progress ✅ 2026-05-11
+- [?] question
+- [*] star
+- [n] note
+- [l] location
+- [i] information
+- [I] idea
+- [S] amount
+- [p] pro
+- [c] con
+- [b] bookmark
+- ["] quote
+
+```
+- [ ] unchecked
+- [x] checked
+- [>] Rescheduled
+- [<] scheduled
+- [!] important
+- [-] cancelled
+- [/] in progress
+- [?] question
+- [*] star
+- [n] note
+- [l] location
+- [i] information
+- [I] idea
+- [S] amount
+- [p] pro
+- [c] con
+- [b] bookmark
+- ["] quote
+```

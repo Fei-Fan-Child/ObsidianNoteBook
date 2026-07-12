@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
+  "accentColor": "#0490fb",
+  "interfaceFontFamily": "霞鹜文楷 屏幕阅读版",
+  "monospaceFontFamily": "霞鹜文楷 屏幕阅读版",
+  "textFontFamily": "霞鹜文楷 屏幕阅读版",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ],
+  "baseFontSize": 16,
+  "showRibbon": false
+}

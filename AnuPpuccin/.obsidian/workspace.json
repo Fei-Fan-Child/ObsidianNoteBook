@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "1dfdd4931a93fe31",
+    "type": "split",
+    "children": [
+      {
+        "id": "01f753ddd9113b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f87cd89a2fe170ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Folder 00/Checkboxes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c420ba6e1ed2cdff",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b8cca966606caa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ce98ea6dcd93777",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3fc83ff6108e5bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c98cab4dff9d5a5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "47675f47d307c8bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b049ddd601448e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "513933b9c641c757",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Folder 00/Checkboxes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bf779f16e547c41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Folder 00/Checkboxes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc85cebd02923263",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bccd35535d4a061",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Folder 00/Checkboxes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f87cd89a2fe170ff",
+  "lastOpenFiles": [
+    "Folder 01/Card 1.md",
+    "Folder 01/Cards.md",
+    "Folder 00/Callouts.md",
+    "Folder 00/MOC.md",
+    "Folder 00/Typography.md",
+    "Folder 00/Codeblocks.md",
+    "Folder 00/Speech Bubbles.md",
+    "Folder 00/Checkboxes.md",
+    "Folder 01/Card 8.md",
+    "Folder 01/Card 2.md",
+    "Folder 01/Card 3.md",
+    "Folder 01/Card 4.md",
+    "Folder 01/Card 5.md",
+    "Folder 01/Card 6.md",
+    "Folder 01/Card 7.md",
+    "Folder 12",
+    "Folder 11",
+    "Folder 10",
+    "Untitled/Untitled",
+    "Folder 01",
+    "Folder 1/Untitled.md",
+    "Folder 1/Untitled 15.md",
+    "Folder 1/Untitled 14.md",
+    "Folder 1/Untitled 13.md",
+    "Folder 1/Untitled 12.md",
+    "Folder 1/Untitled 11.md",
+    "Folder 1/Untitled 10.md",
+    "Folder 1/Untitled 9.md",
+    "Folder 1/Untitled 8.md",
+    "Folder 1/Untitled 7.md",
+    "Folder 1/Untitled 6.md",
+    "Folder 00",
+    "Folder 09",
+    "Folder 08",
+    "Folder 07",
+    "Folder 06"
+  ]
+}
