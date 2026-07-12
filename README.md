@@ -17,8 +17,8 @@
 
 ### ✍️ 纯手绘 Transformer 架构
 
-| 完整架构 | Encoder 细节 | Decoder 细节 |
-|:---:|:---:|:---:|
+|                                            完整架构                                            |                                     Encoder 细节                                     |                                     Decoder 细节                                     |
+| :----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | ![Transformer](Transformer/Hand-Drawn-Transformer/Transformer/Transformer-Transformer.png) | ![Encoder](Transformer/Hand-Drawn-Transformer/Transformer/Transformer-Encoder.png) | ![Decoder](Transformer/Hand-Drawn-Transformer/Transformer/Transformer-Decoder.png) |
 
 > 以上三张为纯手绘 Transformer 架构图，涵盖 Multi-Head Attention、Add & Norm、Feed Forward、Cross-Attention 等全部组件。
